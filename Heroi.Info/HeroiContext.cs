@@ -6,5 +6,6 @@ namespace Heroi.Info
 {
   public  class HeroiContext
     {
+        //teste
     }
 }
